@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76" role="img" aria-labelledby="title description">
+  <title id="title">Apresentação de Marx Bento</title>
+  <desc id="description">Frases sobre Marx Bento alternam com um efeito visual de decodificação.</desc>
+
+  <defs>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36bcf7" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#36bcf7" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#36bcf7" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect x="12" y="8" width="876" height="60" rx="12" fill="#0d1117" fill-opacity="0.56" stroke="#30363d" />
+  <rect x="22" y="12" width="80" height="52" fill="url(#scan)" opacity="0.3">
+    <animate attributeName="x" values="22;786" dur="1.2s" repeatCount="indefinite" />
+  </rect>
+
+  <g font-family="JetBrains Mono, Consolas, monospace" font-weight="700" font-size="25">
+    <text x="450" y="47" text-anchor="middle" fill="#36bcf7">
+      ⟦ 01001101 :: D3C0D1NG :: █▓▒░ ⟧
+      <animate attributeName="opacity" values="1;0;1;0;1;0;1;0;1;0;0" keyTimes="0;0.04;0.20;0.24;0.40;0.44;0.60;0.64;0.80;0.84;1" calcMode="discrete" dur="30s" repeatCount="indefinite" />
+    </text>
+
+    <text x="450" y="47" text-anchor="middle" fill="#ffffff" opacity="0">
+      👋 Olá, eu sou Marx Bento!
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.039;0.04;0.19;0.20;1" calcMode="discrete" dur="30s" repeatCount="indefinite" />
+    </text>
+    <text x="450" y="47" text-anchor="middle" fill="#ffffff" opacity="0">
+      💻 Desenvolvedor em formação
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.239;0.24;0.39;0.40;1" calcMode="discrete" dur="30s" repeatCount="indefinite" />
+    </text>
+    <text x="450" y="47" text-anchor="middle" fill="#ffffff" opacity="0">
+      🛡️ Construindo meu caminho em Cibersegurança
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.439;0.44;0.59;0.60;1" calcMode="discrete" dur="30s" repeatCount="indefinite" />
+    </text>
+    <text x="450" y="47" text-anchor="middle" fill="#ffffff" opacity="0">
+      🔐 Explorando segurança, sistemas e tecnologia
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.639;0.64;0.79;0.80;1" calcMode="discrete" dur="30s" repeatCount="indefinite" />
+    </text>
+    <text x="450" y="47" text-anchor="middle" fill="#ffffff" opacity="0">
+      🎓 Estudante de ADS na PUC Minas
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.839;0.84;0.99;0.999;1" calcMode="discrete" dur="30s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <rect x="848" y="25" width="3" height="27" rx="1.5" fill="#36bcf7">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+  </rect>
+</svg>
