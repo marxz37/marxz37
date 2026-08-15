@@ -68,6 +68,17 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em f
   </a>
 </div>
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/marxz37">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=marxz37&amp;show_icons=true&amp;include_all_commits=true&amp;locale=pt-br&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github" alt="Estatísticas do GitHub de Marx" />
+  </a>
+  <a href="https://github.com/marxz37?tab=repositories">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marxz37&amp;layout=compact&amp;langs_count=6&amp;locale=pt-br&amp;theme=github_dark&amp;hide_border=true" alt="Linguagens mais utilizadas nos repositórios de Marx" />
+  </a>
+</div>
+
 ---
 
 <div align="center">
