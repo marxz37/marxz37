@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="assets/animacao-perfil-sombra.gif" alt="Guts sob a chuva" width="100%" />
+    <img src="assets/animacao-perfil-upscaled.gif" alt="Guts sob a chuva" width="100%" />
   </p>
 
   <img src="assets/saudacao-decodificada.svg" alt="Olá, eu sou Marx Bento!" width="900" />
@@ -22,6 +22,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em f
 - 🗄️ Iniciando estudos em bancos de dados relacionais com SQL e PostgreSQL.
 - 🧩 Gosto de organizar ideias e transformá-las em experiências funcionais.
 - 🛡️ Meu objetivo profissional é atuar futuramente na área de cibersegurança.
+
+Desenvolvo projetos acadêmicos e pessoais com **HTML, CSS, JavaScript, C# e .NET**, aplicando lógica de programação, orientação a objetos, DOM, CRUD, autenticação, perfis de acesso, LocalStorage, Bootstrap, Git e GitHub. Atualmente também estou iniciando meus estudos em bancos de dados relacionais com **SQL e PostgreSQL**.
 
 <br clear="right" />
 
