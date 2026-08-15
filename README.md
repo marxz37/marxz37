@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="assets/animacao-perfil.gif" alt="Guts sob a chuva" width="100%" />
+    <img src="assets/animacao-perfil-sombra.gif" alt="Guts sob a chuva" width="100%" />
   </p>
 
   <img src="assets/saudacao-decodificada.svg" alt="Olá, eu sou Marx Bento!" width="900" />
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" src="assets/arte-lateral.png" alt="Arte em preto e branco usada na lateral da apresentação" width="320" />
+<img align="right" src="assets/arte-lateral-sombra.png" alt="Arte em preto e branco usada na lateral da apresentação" width="320" />
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação. Uso projetos acadêmicos e pessoais para transformar teoria em prática, registrar minha evolução e fortalecer os fundamentos de front-end, back-end e lógica de programação.
 
@@ -31,6 +31,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em f
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
@@ -68,12 +69,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em f
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/marxz37">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=marxz37&amp;show_icons=true&amp;include_all_commits=true&amp;locale=pt-br&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github" alt="Estatísticas do GitHub de Marx" />
-  </a>
-  <a href="https://github.com/marxz37?tab=repositories">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marxz37&amp;layout=compact&amp;langs_count=6&amp;locale=pt-br&amp;theme=github_dark&amp;hide_border=true" alt="Linguagens mais utilizadas nos repositórios de Marx" />
-  </a>
+  <a href="https://github.com/marxz37"><img height="180" src="https://github-stats-extended.vercel.app/api?username=marxz37&amp;show_icons=true&amp;include_all_commits=true&amp;locale=pt-br&amp;theme=github_dark&amp;hide_border=true" alt="Estatísticas do GitHub de Marx" /></a>
+  <a href="https://github.com/marxz37?tab=repositories"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marxz37&amp;layout=compact&amp;langs_count=6&amp;locale=pt-br&amp;theme=github_dark&amp;hide_border=true" alt="Linguagens mais utilizadas nos repositórios de Marx" /></a>
 </div>
 
 ---
