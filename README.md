@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="assets/banner-github.png" alt="Paisagem digital em preto e branco com um explorador e um caminho luminoso" width="100%" />
-
   <img src="assets/saudacao-decodificada.svg" alt="Olá, eu sou Marx Bento!" width="900" />
 
   <p>
-    <img src="assets/animacao-perfil.gif" alt="Animação em preto e branco sob a chuva" width="72%" />
+    <img src="assets/animacao-perfil.gif" alt="Guts sob a chuva" width="100%" />
   </p>
 
   <p>
@@ -26,7 +24,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em f
 - 🚀 Evoluindo em desenvolvimento web com HTML, CSS e JavaScript.
 - 🧠 Praticando lógica, orientação a objetos e aplicações de console com C#.
 - 🧩 Gosto de organizar ideias e transformá-las em experiências funcionais.
-- 🎯 Meu objetivo é continuar aprendendo e construir soluções cada vez mais completas.
+- 🛡️ Meu objetivo profissional é atuar futuramente na área de cibersegurança.
 
 <br clear="right" />
 
@@ -38,6 +36,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em f
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -63,16 +63,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em f
 ## 📊 Minha evolução no GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marxz37&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=8B949E&locale=pt-br" alt="Estatísticas do GitHub de Marx" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxz37&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=8B949E&locale=pt-br" alt="Linguagens mais usadas por Marx" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=marxz37&theme=transparent&hide_border=true&locale=pt_BR&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="Sequência de contribuições de Marx" />
+  <a href="https://github.com/marxz37?tab=repositories">
+    <img src="assets/evolucao-github.svg" alt="Evolução de Marx: fundamentos em desenvolvimento, estudos de SQL e PostgreSQL e direção em cibersegurança" width="900" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Cada repositório registra uma etapa da minha jornada como desenvolvedor.</sub>
+  <sub>Cada repositório registra uma etapa da minha jornada em tecnologia e cibersegurança.</sub>
 </div>
