@@ -1,17 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76" role="img" aria-labelledby="title description">
   <title id="title">Apresentação de Marx Bento</title>
-  <desc id="description">Frases sobre Marx Bento alternam com caracteres embaralhados que se decodificam rapidamente.</desc>
+  <desc id="description">Frases sobre Marx Bento alternam com uma decodificação suave e gradual.</desc>
 
   <defs>
     <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#36bcf7" stop-opacity="0" />
-      <stop offset="0.5" stop-color="#36bcf7" stop-opacity="0.72" />
+      <stop offset="0.5" stop-color="#36bcf7" stop-opacity="0.28" />
       <stop offset="1" stop-color="#36bcf7" stop-opacity="0" />
     </linearGradient>
-    <filter id="decode-glow" x="-20%" y="-80%" width="140%" height="260%">
-      <feGaussianBlur stdDeviation="2.2" result="blur" />
+    <filter id="decode-glow" x="-10%" y="-35%" width="120%" height="170%">
+      <feGaussianBlur stdDeviation="0.65" result="blur" />
+      <feComponentTransfer in="blur" result="soft-glow">
+        <feFuncA type="linear" slope="0.32" />
+      </feComponentTransfer>
       <feMerge>
-        <feMergeNode in="blur" />
+        <feMergeNode in="soft-glow" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
@@ -21,129 +24,129 @@
 
   <g opacity="0">
     <rect x="34" y="13" width="96" height="50" fill="url(#scan)">
-      <animate attributeName="x" values="34;770" dur="0.66s" repeatCount="indefinite" />
+      <animate attributeName="x" values="34;770" dur="2.7s" repeatCount="indefinite" />
     </rect>
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.001;0.0188;0.0189;1" calcMode="discrete" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0.55;0.55;0;0" keyTimes="0;0.012;0.3;0.34;1" calcMode="discrete" dur="9s" repeatCount="indefinite" />
   </g>
 
   <g font-family="JetBrains Mono, Consolas, monospace" font-size="25" filter="url(#decode-glow)">
     <!-- Frase 1: caracteres instáveis se resolvem da esquerda para a direita. -->
-      <text x="450" y="47" text-anchor="middle" fill="#36bcf7" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#2f81a8" opacity="0" letter-spacing="0.8">
         👋 #L4, 3_ 50U M@R% B3N+0!
-        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.004;0.004;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.015;0.015;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#55c8ff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#4098bd" opacity="0" letter-spacing="0.8">
         👋 OLÁ, 3U S0U M4RX B3NT0!
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.004;0.004;0.008571;0.008571;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.015;0.015;0.031;0.031;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#8bddff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#6caec8" opacity="0" letter-spacing="0.8">
         👋 Olá, eu S0U M4RX B3NTO!
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.008571;0.008571;0.013429;0.013429;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.031;0.031;0.048;0.048;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#c7efff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#9bc5d4" opacity="0" letter-spacing="0.8">
         👋 Olá, eu sou Marx B3NTO!
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.013429;0.013429;0.018857;0.018857;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.048;0.048;0.066;0.066;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#f0f6fc" opacity="0" font-weight="750">
+      <text x="450" y="47" text-anchor="middle" fill="#c9d1d9" opacity="0" font-weight="650">
         👋 Olá, eu sou Marx Bento!
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.018857;0.018857;0.175714;0.175714;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.066;0.066;0.18;0.18;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
 
     <!-- Frase 2: caracteres instáveis se resolvem da esquerda para a direita. -->
-      <text x="450" y="47" text-anchor="middle" fill="#36bcf7" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#2f81a8" opacity="0" letter-spacing="0.8">
         💻 D3S3NV0LV3D0R 3M F0RM4ÇÃ0
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.2;0.204;0.204;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.2;0.215;0.215;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#55c8ff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#4098bd" opacity="0" letter-spacing="0.8">
         💻 DESENV0LVED0R EM F0RMAÇÃ0
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.204;0.204;0.208571;0.208571;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.215;0.215;0.231;0.231;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#8bddff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#6caec8" opacity="0" letter-spacing="0.8">
         💻 Desenvolvedor EM F0RMAÇÃO
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.208571;0.208571;0.213429;0.213429;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.231;0.231;0.248;0.248;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#c7efff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#9bc5d4" opacity="0" letter-spacing="0.8">
         💻 Desenvolvedor em F0RMAÇÃO
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.213429;0.213429;0.218857;0.218857;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.248;0.248;0.266;0.266;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#f0f6fc" opacity="0" font-weight="750">
+      <text x="450" y="47" text-anchor="middle" fill="#c9d1d9" opacity="0" font-weight="650">
         💻 Desenvolvedor em formação
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.218857;0.218857;0.375714;0.375714;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.266;0.266;0.38;0.38;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
 
     <!-- Frase 3: caracteres instáveis se resolvem da esquerda para a direita. -->
-      <text x="450" y="47" text-anchor="middle" fill="#36bcf7" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#2f81a8" opacity="0" letter-spacing="0.8">
         🛡️ C0N5TRU1ND0 M3U C4M1NH0 3M C1B3R53GUR4NÇ4
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.4;0.404;0.404;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.4;0.415;0.415;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#55c8ff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#4098bd" opacity="0" letter-spacing="0.8">
         🛡️ CONSTRUIND0 MEU C4MINH0 EM CIBERSEGUR4NÇ4
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.404;0.404;0.408571;0.408571;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.415;0.415;0.431;0.431;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#8bddff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#6caec8" opacity="0" letter-spacing="0.8">
         🛡️ Construindo meu CAMINH0 em Cibersegur4nça
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.408571;0.408571;0.413429;0.413429;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.431;0.431;0.448;0.448;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#c7efff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#9bc5d4" opacity="0" letter-spacing="0.8">
         🛡️ Construindo meu caminho em CibersegurANÇA
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.413429;0.413429;0.418857;0.418857;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.448;0.448;0.466;0.466;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#f0f6fc" opacity="0" font-weight="750">
+      <text x="450" y="47" text-anchor="middle" fill="#c9d1d9" opacity="0" font-weight="650">
         🛡️ Construindo meu caminho em Cibersegurança
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.418857;0.418857;0.575714;0.575714;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.466;0.466;0.58;0.58;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
 
     <!-- Frase 4: caracteres instáveis se resolvem da esquerda para a direita. -->
-      <text x="450" y="47" text-anchor="middle" fill="#36bcf7" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#2f81a8" opacity="0" letter-spacing="0.8">
         🔐 3XPL0R4ND0 S3GUR4NÇ4, S15T3M45 3 T3CN0L0G14
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.6;0.604;0.604;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.6;0.615;0.615;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#55c8ff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#4098bd" opacity="0" letter-spacing="0.8">
         🔐 EXPLORAND0 SEGUR4NÇA, SISTEM4S E TECN0LOGIA
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.604;0.604;0.608571;0.608571;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.615;0.615;0.631;0.631;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#8bddff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#6caec8" opacity="0" letter-spacing="0.8">
         🔐 Explorando segurança, SISTEMAS e tecnol0gia
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.608571;0.608571;0.613429;0.613429;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.631;0.631;0.648;0.648;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#c7efff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#9bc5d4" opacity="0" letter-spacing="0.8">
         🔐 Explorando segurança, sistemas e TECNOLOGIA
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.613429;0.613429;0.618857;0.618857;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.648;0.648;0.666;0.666;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#f0f6fc" opacity="0" font-weight="750">
+      <text x="450" y="47" text-anchor="middle" fill="#c9d1d9" opacity="0" font-weight="650">
         🔐 Explorando segurança, sistemas e tecnologia
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.618857;0.618857;0.775714;0.775714;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.666;0.666;0.78;0.78;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
 
     <!-- Frase 5: caracteres instáveis se resolvem da esquerda para a direita. -->
-      <text x="450" y="47" text-anchor="middle" fill="#36bcf7" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#2f81a8" opacity="0" letter-spacing="0.8">
         🎓 35TUD4NT3 D3 4D5 N4 PUC M1N45
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.8;0.804;0.804;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.8;0.815;0.815;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#55c8ff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#4098bd" opacity="0" letter-spacing="0.8">
         🎓 ESTUD4NTE DE ADS NA PUC MIN4S
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.804;0.804;0.808571;0.808571;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.815;0.815;0.831;0.831;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#8bddff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#6caec8" opacity="0" letter-spacing="0.8">
         🎓 Estudante DE ADS na PUC MINAS
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.808571;0.808571;0.813429;0.813429;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.831;0.831;0.848;0.848;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#c7efff" opacity="0" letter-spacing="0.8">
+      <text x="450" y="47" text-anchor="middle" fill="#9bc5d4" opacity="0" letter-spacing="0.8">
         🎓 Estudante de ADS na PUC MinAS
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.813429;0.813429;0.818857;0.818857;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.848;0.848;0.866;0.866;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
-      <text x="450" y="47" text-anchor="middle" fill="#f0f6fc" opacity="0" font-weight="750">
+      <text x="450" y="47" text-anchor="middle" fill="#c9d1d9" opacity="0" font-weight="650">
         🎓 Estudante de ADS na PUC Minas
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.818857;0.818857;0.975714;0.975714;1" calcMode="discrete" dur="35s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.866;0.866;0.98;0.98;1" calcMode="discrete" dur="45s" repeatCount="indefinite" />
       </text>
   </g>
 
   <g fill="#36bcf7">
     <rect x="30" y="23" width="3" height="30" rx="1.5">
-      <animate attributeName="opacity" values="1;0.2;1" dur="0.18s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.25;1" dur="0.9s" repeatCount="indefinite" />
     </rect>
     <rect x="867" y="23" width="3" height="30" rx="1.5">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="0.24s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="1.1s" repeatCount="indefinite" />
     </rect>
   </g>
 </svg>
