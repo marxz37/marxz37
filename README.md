@@ -6,12 +6,8 @@
   <img src="assets/saudacao-decodificada.svg" alt="Olá, eu sou Marx Bento!" width="900" />
 
   <p>
-    <a href="https://github.com/marxz37?tab=followers">
-      <img src="https://img.shields.io/github/followers/marxz37?label=Seguidores&style=for-the-badge&logo=github&color=181717" alt="Seguidores no GitHub" />
-    </a>
-    <a href="https://github.com/marxz37?tab=repositories">
-      <img src="https://img.shields.io/badge/Projetos-181717?style=for-the-badge&logo=github" alt="Projetos" />
-    </a>
+    <a href="https://github.com/marxz37?tab=followers"><img src="https://img.shields.io/github/followers/marxz37?label=Seguidores&style=for-the-badge&logo=github&color=181717" alt="Seguidores no GitHub" /></a>
+    <a href="https://github.com/marxz37?tab=repositories"><img src="https://img.shields.io/badge/Projetos-181717?style=for-the-badge&logo=github" alt="Projetos" /></a>
   </p>
 </div>
 
@@ -23,6 +19,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em f
 
 - 🚀 Evoluindo em desenvolvimento web com HTML, CSS e JavaScript.
 - 🧠 Praticando lógica, orientação a objetos e aplicações de console com C#.
+- 🗄️ Iniciando estudos em bancos de dados relacionais com SQL e PostgreSQL.
 - 🧩 Gosto de organizar ideias e transformá-las em experiências funcionais.
 - 🛡️ Meu objetivo profissional é atuar futuramente na área de cibersegurança.
 
