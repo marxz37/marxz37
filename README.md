@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" src="assets/arte-lateral-sombra.png" alt="Arte em preto e branco usada na lateral da apresentação" width="320" />
+<img align="right" src="assets/arte-lateral-retrato.png" alt="Arte em preto e branco usada na lateral da apresentação" width="320" />
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação. Uso projetos acadêmicos e pessoais para transformar teoria em prática, registrar minha evolução e fortalecer os fundamentos de front-end, back-end e lógica de programação.
 
