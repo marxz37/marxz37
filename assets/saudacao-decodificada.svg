@@ -194,7 +194,7 @@
         <text x="256" y="47" opacity="0">👋 97M8FTRN|T}9NW:02P0]RO{<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
         <text x="256" y="47" opacity="0">👋 JZ=879{+8-2YR}_:}[14EXR<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
       </g>
-      <text x="256" y="47" fill="#f0f6fc" clip-path="url(#decode-1)">👋 Olá, eu sou Marx Bento!</text>
+      <text x="256" y="47" fill="#f0f6fc" clip-path="url(#decode-1)"><tspan x="256" y="47">👋<animate attributeName="y" values="47;41;47;50;47" keyTimes="0;0.25;0.5;0.75;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" dur="3s" repeatCount="indefinite" /></tspan><tspan x="298" y="47">Olá, eu sou Marx Bento!</tspan></text>
       <g opacity="0">
         <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.074419;0.074419;1" calcMode="discrete" dur="43s" repeatCount="indefinite" />
         <rect x="256" y="21" width="3" height="32" rx="1.5" fill="#ffffff">
@@ -211,7 +211,7 @@
         <text x="241" y="47" opacity="0">💻 4R#A{$$%HJWHQWCQUBD1[][FD<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
         <text x="241" y="47" opacity="0">💻 *17N6BO}@{293#@FRBAQ4P7X+<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
       </g>
-      <text x="241" y="47" fill="#f0f6fc" clip-path="url(#decode-2)">💻 Desenvolvedor em formação</text>
+      <text x="241" y="47" fill="#f0f6fc" clip-path="url(#decode-2)"><tspan x="241" y="47">💻<animate attributeName="y" values="47;41;47;50;47" keyTimes="0;0.25;0.5;0.75;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" dur="3s" repeatCount="indefinite" /></tspan><tspan x="283" y="47">Desenvolvedor em formação</tspan></text>
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.2;0.274419;0.274419;1" calcMode="discrete" dur="43s" repeatCount="indefinite" />
         <rect x="241" y="21" width="3" height="32" rx="1.5" fill="#ffffff">
@@ -228,7 +228,7 @@
         <text x="120" y="47" opacity="0">🛡️ D6]0A|0/IN@B-M0S1%YC]]XOQ*FN}?7]515M4+W6N<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
         <text x="120" y="47" opacity="0">🛡️ =8N-/NI];+:T;KPJ1JE?NCV8=YW8N]8Q|]=HKSY9-<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
       </g>
-      <text x="120" y="47" fill="#f0f6fc" clip-path="url(#decode-3)">🛡️ Construindo meu caminho em Cibersegurança</text>
+      <text x="120" y="47" fill="#f0f6fc" clip-path="url(#decode-3)"><tspan x="120" y="47">🛡️<animate attributeName="y" values="47;41;47;50;47" keyTimes="0;0.25;0.5;0.75;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" dur="3s" repeatCount="indefinite" /></tspan><tspan x="162" y="47">Construindo meu caminho em Cibersegurança</tspan></text>
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.4;0.474419;0.474419;1" calcMode="discrete" dur="43s" repeatCount="indefinite" />
         <rect x="120" y="21" width="3" height="32" rx="1.5" fill="#ffffff">
@@ -245,7 +245,7 @@
         <text x="105" y="47" opacity="0">🔐 %_::[C=5QC}W*69:*VAHD/:*CM7%754?IS0O#3XONW+<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
         <text x="105" y="47" opacity="0">🔐 #6V/8/A3YELH+;D*3XI:%0EN5GVPT:?+9:PQ8T:+6BF<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
       </g>
-      <text x="105" y="47" fill="#f0f6fc" clip-path="url(#decode-4)">🔐 Explorando segurança, sistemas e tecnologia</text>
+      <text x="105" y="47" fill="#f0f6fc" clip-path="url(#decode-4)"><tspan x="105" y="47">🔐<animate attributeName="y" values="47;41;47;50;47" keyTimes="0;0.25;0.5;0.75;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" dur="3s" repeatCount="indefinite" /></tspan><tspan x="147" y="47">Explorando segurança, sistemas e tecnologia</tspan></text>
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.6;0.674419;0.674419;1" calcMode="discrete" dur="43s" repeatCount="indefinite" />
         <rect x="105" y="21" width="3" height="32" rx="1.5" fill="#ffffff">
@@ -262,7 +262,7 @@
         <text x="210" y="47" opacity="0">🎓 YOU@UWRU1G#%E*[L}F]1FYW/|7R7%<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
         <text x="210" y="47" opacity="0">🎓 @4/T$U|DY{F}+ASCYVW3OE6:[EA/1<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
       </g>
-      <text x="210" y="47" fill="#f0f6fc" clip-path="url(#decode-5)">🎓 Estudante de ADS na PUC Minas</text>
+      <text x="210" y="47" fill="#f0f6fc" clip-path="url(#decode-5)"><tspan x="210" y="47">🎓<animate attributeName="y" values="47;41;47;50;47" keyTimes="0;0.25;0.5;0.75;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" dur="3s" repeatCount="indefinite" /></tspan><tspan x="252" y="47">Estudante de ADS na PUC Minas</tspan></text>
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.8;0.874419;0.874419;1" calcMode="discrete" dur="43s" repeatCount="indefinite" />
         <rect x="210" y="21" width="3" height="32" rx="1.5" fill="#ffffff">
