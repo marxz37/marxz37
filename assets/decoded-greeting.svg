@@ -38,8 +38,8 @@
       <stop offset="0" stop-color="#ffffff" />
       <stop offset="0.38" stop-color="#8b949e" />
       <stop offset="1" stop-color="#000000" />
-      <animate attributeName="x1" values="226;226;674;674;226;226" keyTimes="0;0.209302;0.283721;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
-      <animate attributeName="x2" values="226;226;674;674;226;226" keyTimes="0;0.2;0.274419;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
+      <animate attributeName="x1" values="226;226;700;700;226;226" keyTimes="0;0.209302;0.283721;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="226;226;700;700;226;226" keyTimes="0;0.2;0.274419;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
     </linearGradient>
     <linearGradient id="cipher-gradient-3" gradientUnits="userSpaceOnUse" x1="197" y1="0" x2="197" y2="0">
       <stop offset="0" stop-color="#ffffff" />
@@ -83,18 +83,18 @@
 
     <clipPath id="typing-2" clipPathUnits="userSpaceOnUse">
       <rect x="226" y="13" width="0" height="50">
-        <animate attributeName="width" values="0;0;448;448;0;0" keyTimes="0;0.2;0.274419;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;0;474;474;0;0" keyTimes="0;0.2;0.274419;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
       </rect>
     </clipPath>
     <clipPath id="decode-2" clipPathUnits="userSpaceOnUse">
       <rect x="226" y="13" width="0" height="50">
-        <animate attributeName="width" values="0;0;448;448;0;0" keyTimes="0;0.209302;0.283721;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;0;474;474;0;0" keyTimes="0;0.209302;0.283721;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
       </rect>
     </clipPath>
-    <mask id="cipher-2" maskUnits="userSpaceOnUse" x="226" y="13" width="448" height="50">
-      <rect x="226" y="13" width="448" height="50" fill="white" />
+    <mask id="cipher-2" maskUnits="userSpaceOnUse" x="226" y="13" width="474" height="50">
+      <rect x="226" y="13" width="474" height="50" fill="white" />
       <rect x="226" y="13" width="0" height="50" fill="black">
-        <animate attributeName="width" values="0;0;448;448;0;0" keyTimes="0;0.209302;0.283721;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;0;474;474;0;0" keyTimes="0;0.209302;0.283721;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
       </rect>
     </mask>
 
@@ -215,7 +215,7 @@
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.2;0.274419;0.274419;1" calcMode="discrete" dur="43s" repeatCount="indefinite" />
         <rect x="226" y="21" width="3" height="32" rx="1.5" fill="#ffffff">
-          <animate attributeName="x" values="226;226;674;674;226;226" keyTimes="0;0.2;0.274419;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
+          <animate attributeName="x" values="226;226;700;700;226;226" keyTimes="0;0.2;0.274419;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
           <animate attributeName="opacity" values="1;0.25;1" dur="0.8s" repeatCount="indefinite" />
         </rect>
       </g>
