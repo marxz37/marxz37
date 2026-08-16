@@ -19,44 +19,46 @@
     </filter>
 
     <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2389b8" stop-opacity="0" />
-      <stop offset="0.5" stop-color="#36bcf7" stop-opacity="0.34" />
-      <stop offset="1" stop-color="#2389b8" stop-opacity="0" />
+      <stop offset="0" stop-color="#000000" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#000000" stop-opacity="0.52">
+        <animate attributeName="stop-color" values="#000000;#ffffff;#000000" dur="1.6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="1" stop-color="#000000" stop-opacity="0" />
     </linearGradient>
 
-    <!-- O azul fica claro perto da frente de decodificação e escuro perto da digitação. -->
+    <!-- O texto cifrado nasce preto e clareia até o branco perto da decodificação. -->
     <linearGradient id="cipher-gradient-1" gradientUnits="userSpaceOnUse" x1="256" y1="0" x2="256" y2="0">
-      <stop offset="0" stop-color="#54b9d6" />
-      <stop offset="0.38" stop-color="#287c9c" />
-      <stop offset="1" stop-color="#164b63" />
+      <stop offset="0" stop-color="#ffffff" />
+      <stop offset="0.38" stop-color="#8b949e" />
+      <stop offset="1" stop-color="#000000" />
       <animate attributeName="x1" values="256;256;644;644;256;256" keyTimes="0;0.009302;0.083721;0.1999;0.2;1" dur="43s" repeatCount="indefinite" />
       <animate attributeName="x2" values="256;644;644;256;256" keyTimes="0;0.074419;0.1999;0.2;1" dur="43s" repeatCount="indefinite" />
     </linearGradient>
     <linearGradient id="cipher-gradient-2" gradientUnits="userSpaceOnUse" x1="241" y1="0" x2="241" y2="0">
-      <stop offset="0" stop-color="#54b9d6" />
-      <stop offset="0.38" stop-color="#287c9c" />
-      <stop offset="1" stop-color="#164b63" />
+      <stop offset="0" stop-color="#ffffff" />
+      <stop offset="0.38" stop-color="#8b949e" />
+      <stop offset="1" stop-color="#000000" />
       <animate attributeName="x1" values="241;241;659;659;241;241" keyTimes="0;0.209302;0.283721;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
       <animate attributeName="x2" values="241;241;659;659;241;241" keyTimes="0;0.2;0.274419;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
     </linearGradient>
     <linearGradient id="cipher-gradient-3" gradientUnits="userSpaceOnUse" x1="120" y1="0" x2="120" y2="0">
-      <stop offset="0" stop-color="#54b9d6" />
-      <stop offset="0.38" stop-color="#287c9c" />
-      <stop offset="1" stop-color="#164b63" />
+      <stop offset="0" stop-color="#ffffff" />
+      <stop offset="0.38" stop-color="#8b949e" />
+      <stop offset="1" stop-color="#000000" />
       <animate attributeName="x1" values="120;120;780;780;120;120" keyTimes="0;0.409302;0.483721;0.5999;0.6;1" dur="43s" repeatCount="indefinite" />
       <animate attributeName="x2" values="120;120;780;780;120;120" keyTimes="0;0.4;0.474419;0.5999;0.6;1" dur="43s" repeatCount="indefinite" />
     </linearGradient>
     <linearGradient id="cipher-gradient-4" gradientUnits="userSpaceOnUse" x1="105" y1="0" x2="105" y2="0">
-      <stop offset="0" stop-color="#54b9d6" />
-      <stop offset="0.38" stop-color="#287c9c" />
-      <stop offset="1" stop-color="#164b63" />
+      <stop offset="0" stop-color="#ffffff" />
+      <stop offset="0.38" stop-color="#8b949e" />
+      <stop offset="1" stop-color="#000000" />
       <animate attributeName="x1" values="105;105;795;795;105;105" keyTimes="0;0.609302;0.683721;0.7999;0.8;1" dur="43s" repeatCount="indefinite" />
       <animate attributeName="x2" values="105;105;795;795;105;105" keyTimes="0;0.6;0.674419;0.7999;0.8;1" dur="43s" repeatCount="indefinite" />
     </linearGradient>
     <linearGradient id="cipher-gradient-5" gradientUnits="userSpaceOnUse" x1="210" y1="0" x2="210" y2="0">
-      <stop offset="0" stop-color="#54b9d6" />
-      <stop offset="0.38" stop-color="#287c9c" />
-      <stop offset="1" stop-color="#164b63" />
+      <stop offset="0" stop-color="#ffffff" />
+      <stop offset="0.38" stop-color="#8b949e" />
+      <stop offset="1" stop-color="#000000" />
       <animate attributeName="x1" values="210;210;689;689;210" keyTimes="0;0.809302;0.883721;0.9999;1" dur="43s" repeatCount="indefinite" />
       <animate attributeName="x2" values="210;210;689;689;210" keyTimes="0;0.8;0.874419;0.9999;1" dur="43s" repeatCount="indefinite" />
     </linearGradient>
@@ -192,10 +194,10 @@
         <text x="256" y="47" opacity="0">👋 97M8FTRN|T}9NW:02P0]RO{<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
         <text x="256" y="47" opacity="0">👋 JZ=879{+8-2YR}_:}[14EXR<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
       </g>
-      <text x="256" y="47" fill="#c9d1d9" clip-path="url(#decode-1)">👋 Olá, eu sou Marx Bento!</text>
+      <text x="256" y="47" fill="#f0f6fc" clip-path="url(#decode-1)">👋 Olá, eu sou Marx Bento!</text>
       <g opacity="0">
         <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.074419;0.074419;1" calcMode="discrete" dur="43s" repeatCount="indefinite" />
-        <rect x="256" y="21" width="3" height="32" rx="1.5" fill="#36bcf7">
+        <rect x="256" y="21" width="3" height="32" rx="1.5" fill="#ffffff">
           <animate attributeName="x" values="256;644;644;256;256" keyTimes="0;0.074419;0.1999;0.2;1" dur="43s" repeatCount="indefinite" />
           <animate attributeName="opacity" values="1;0.25;1" dur="0.8s" repeatCount="indefinite" />
         </rect>
@@ -209,10 +211,10 @@
         <text x="241" y="47" opacity="0">💻 4R#A{$$%HJWHQWCQUBD1[][FD<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
         <text x="241" y="47" opacity="0">💻 *17N6BO}@{293#@FRBAQ4P7X+<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
       </g>
-      <text x="241" y="47" fill="#c9d1d9" clip-path="url(#decode-2)">💻 Desenvolvedor em formação</text>
+      <text x="241" y="47" fill="#f0f6fc" clip-path="url(#decode-2)">💻 Desenvolvedor em formação</text>
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.2;0.274419;0.274419;1" calcMode="discrete" dur="43s" repeatCount="indefinite" />
-        <rect x="241" y="21" width="3" height="32" rx="1.5" fill="#36bcf7">
+        <rect x="241" y="21" width="3" height="32" rx="1.5" fill="#ffffff">
           <animate attributeName="x" values="241;241;659;659;241;241" keyTimes="0;0.2;0.274419;0.3999;0.4;1" dur="43s" repeatCount="indefinite" />
           <animate attributeName="opacity" values="1;0.25;1" dur="0.8s" repeatCount="indefinite" />
         </rect>
@@ -226,10 +228,10 @@
         <text x="120" y="47" opacity="0">🛡️ D6]0A|0/IN@B-M0S1%YC]]XOQ*FN}?7]515M4+W6N<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
         <text x="120" y="47" opacity="0">🛡️ =8N-/NI];+:T;KPJ1JE?NCV8=YW8N]8Q|]=HKSY9-<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
       </g>
-      <text x="120" y="47" fill="#c9d1d9" clip-path="url(#decode-3)">🛡️ Construindo meu caminho em Cibersegurança</text>
+      <text x="120" y="47" fill="#f0f6fc" clip-path="url(#decode-3)">🛡️ Construindo meu caminho em Cibersegurança</text>
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.4;0.474419;0.474419;1" calcMode="discrete" dur="43s" repeatCount="indefinite" />
-        <rect x="120" y="21" width="3" height="32" rx="1.5" fill="#36bcf7">
+        <rect x="120" y="21" width="3" height="32" rx="1.5" fill="#ffffff">
           <animate attributeName="x" values="120;120;780;780;120;120" keyTimes="0;0.4;0.474419;0.5999;0.6;1" dur="43s" repeatCount="indefinite" />
           <animate attributeName="opacity" values="1;0.25;1" dur="0.8s" repeatCount="indefinite" />
         </rect>
@@ -243,10 +245,10 @@
         <text x="105" y="47" opacity="0">🔐 %_::[C=5QC}W*69:*VAHD/:*CM7%754?IS0O#3XONW+<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
         <text x="105" y="47" opacity="0">🔐 #6V/8/A3YELH+;D*3XI:%0EN5GVPT:?+9:PQ8T:+6BF<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
       </g>
-      <text x="105" y="47" fill="#c9d1d9" clip-path="url(#decode-4)">🔐 Explorando segurança, sistemas e tecnologia</text>
+      <text x="105" y="47" fill="#f0f6fc" clip-path="url(#decode-4)">🔐 Explorando segurança, sistemas e tecnologia</text>
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.6;0.674419;0.674419;1" calcMode="discrete" dur="43s" repeatCount="indefinite" />
-        <rect x="105" y="21" width="3" height="32" rx="1.5" fill="#36bcf7">
+        <rect x="105" y="21" width="3" height="32" rx="1.5" fill="#ffffff">
           <animate attributeName="x" values="105;105;795;795;105;105" keyTimes="0;0.6;0.674419;0.7999;0.8;1" dur="43s" repeatCount="indefinite" />
           <animate attributeName="opacity" values="1;0.25;1" dur="0.8s" repeatCount="indefinite" />
         </rect>
@@ -260,10 +262,10 @@
         <text x="210" y="47" opacity="0">🎓 YOU@UWRU1G#%E*[L}F]1FYW/|7R7%<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
         <text x="210" y="47" opacity="0">🎓 @4/T$U|DY{F}+ASCYVW3OE6:[EA/1<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.54s" repeatCount="indefinite" /></text>
       </g>
-      <text x="210" y="47" fill="#c9d1d9" clip-path="url(#decode-5)">🎓 Estudante de ADS na PUC Minas</text>
+      <text x="210" y="47" fill="#f0f6fc" clip-path="url(#decode-5)">🎓 Estudante de ADS na PUC Minas</text>
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.8;0.874419;0.874419;1" calcMode="discrete" dur="43s" repeatCount="indefinite" />
-        <rect x="210" y="21" width="3" height="32" rx="1.5" fill="#36bcf7">
+        <rect x="210" y="21" width="3" height="32" rx="1.5" fill="#ffffff">
           <animate attributeName="x" values="210;210;689;689;210" keyTimes="0;0.8;0.874419;0.9999;1" dur="43s" repeatCount="indefinite" />
           <animate attributeName="opacity" values="1;0.25;1" dur="0.8s" repeatCount="indefinite" />
         </rect>
@@ -272,7 +274,7 @@
   </g>
 
   <!-- Barras laterais restauradas. -->
-  <g fill="#36bcf7" aria-hidden="true">
+  <g fill="#ffffff" aria-hidden="true">
     <rect x="30" y="23" width="3" height="30" rx="1.5">
       <animate attributeName="opacity" values="1;0.25;1" dur="0.9s" repeatCount="indefinite" />
     </rect>
