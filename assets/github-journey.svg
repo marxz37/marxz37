@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-labelledby="title description">
-  <title id="title">Minha evolução no GitHub</title>
-  <desc id="description">Jornada de estudos de Marx: fundamentos em desenvolvimento, próximo ciclo com SQL e PostgreSQL e direção em cibersegurança.</desc>
+  <title id="title">My GitHub Journey</title>
+  <desc id="description">Marx's learning journey: software development foundations, relational databases with SQL and PostgreSQL, and a long-term direction in cybersecurity.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -22,8 +22,8 @@
   </defs>
 
   <rect x="1" y="1" width="898" height="228" rx="18" fill="url(#background)" stroke="#30363d" />
-  <text x="36" y="38" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">EVOLUÇÃO CONTÍNUA</text>
-  <text x="36" y="61" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13">Estudos, projetos e prática construindo o próximo passo.</text>
+  <text x="36" y="38" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">CONTINUOUS GROWTH</text>
+  <text x="36" y="61" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13">Studies, projects, and hands-on practice shaping the next step.</text>
 
   <rect x="66" y="93" width="768" height="4" rx="2" fill="#21262d" />
   <rect x="66" y="93" width="768" height="4" rx="2" fill="url(#line)" opacity="0.9" />
@@ -31,20 +31,20 @@
   <g font-family="Segoe UI, Arial, sans-serif">
     <circle cx="150" cy="95" r="10" fill="#36bcf7" filter="url(#glow)" />
     <rect x="42" y="119" width="216" height="78" rx="12" fill="#161b22" stroke="#27313d" />
-    <text x="58" y="144" fill="#36bcf7" font-size="11" font-weight="700" letter-spacing="1.2">FUNDAMENTOS</text>
+    <text x="58" y="144" fill="#36bcf7" font-size="11" font-weight="700" letter-spacing="1.2">FOUNDATIONS</text>
     <text x="58" y="169" fill="#f0f6fc" font-size="15" font-weight="600">HTML • CSS • JavaScript</text>
-    <text x="58" y="189" fill="#8b949e" font-size="13">C# • Git • projetos acadêmicos</text>
+    <text x="58" y="189" fill="#8b949e" font-size="13">C# • Git • academic projects</text>
 
     <circle cx="450" cy="95" r="10" fill="#7c3aed" filter="url(#glow)" />
     <rect x="342" y="119" width="216" height="78" rx="12" fill="#161b22" stroke="#33265c" />
-    <text x="358" y="144" fill="#a78bfa" font-size="11" font-weight="700" letter-spacing="1.2">PRÓXIMO CICLO</text>
+    <text x="358" y="144" fill="#a78bfa" font-size="11" font-weight="700" letter-spacing="1.2">NEXT STEP</text>
     <text x="358" y="171" fill="#f0f6fc" font-size="17" font-weight="700">SQL • PostgreSQL</text>
-    <text x="358" y="190" fill="#8b949e" font-size="13">Dados e bancos relacionais</text>
+    <text x="358" y="190" fill="#8b949e" font-size="13">Relational databases</text>
 
     <circle cx="750" cy="95" r="10" fill="#22c55e" filter="url(#glow)" />
     <rect x="642" y="119" width="216" height="78" rx="12" fill="#161b22" stroke="#1f4d35" />
-    <text x="658" y="144" fill="#4ade80" font-size="11" font-weight="700" letter-spacing="1.2">DIREÇÃO</text>
-    <text x="658" y="171" fill="#f0f6fc" font-size="17" font-weight="700">Cibersegurança</text>
-    <text x="658" y="190" fill="#8b949e" font-size="13">Segurança • sistemas • tecnologia</text>
+    <text x="658" y="144" fill="#4ade80" font-size="11" font-weight="700" letter-spacing="1.2">DIRECTION</text>
+    <text x="658" y="171" fill="#f0f6fc" font-size="17" font-weight="700">Cybersecurity</text>
+    <text x="658" y="190" fill="#8b949e" font-size="13">Security • systems • tech</text>
   </g>
 </svg>
