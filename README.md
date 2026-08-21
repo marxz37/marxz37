@@ -1,8 +1,5 @@
 <div align="center">
-  <p>
-    <img src="assets/profile-animation-upscaled.gif" alt="Guts standing in the rain" width="100%" />
-  </p>
-
+  
   <img src="assets/decoded-greeting.svg" alt="Hi, I'm Marx Bento!" width="900" />
 
   <p>
