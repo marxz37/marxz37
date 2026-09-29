@@ -52,10 +52,10 @@ I build academic and personal projects with **HTML, CSS, JavaScript, C#, and .NE
 | Project | Highlights |
 | --- | --- |
 | [**Planeja Lar**](https://github.com/marxz37/planeja-lar-controle-financeiro) | Household financial planning app with a dashboard, goals, cards, and reports. |
+| [**DropTrace Demo**](https://github.com/marxz37/droptrace-demo) | API test web-site developed for PUBG. |
 | [**TechEvents**](https://github.com/marxz37/techevents) | IT events and certifications catalog with favorites, demo authentication, and CRUD operations. |
 | [**Destinations and Attractions Guide**](https://github.com/marxz37/guia-destinos-atracoes) | Responsive guide built with Bootstrap, dynamic rendering, and data-driven pages. |
 | [**Employee Management System**](https://github.com/marxz37/cadastro-funcionarios-controle-acesso) | Academic system featuring CRUD operations, role-based access, and LocalStorage persistence. |
-| [**First Website — Neymar**](https://github.com/marxz37/primeiro-site-neymar) | My first academic website, created to practice structure, navigation, HTML, and CSS. |
 
 ## 📊 My GitHub Journey
 
