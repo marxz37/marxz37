@@ -44,7 +44,7 @@ I build academic and personal projects with **HTML, CSS, JavaScript, C#, and .NE
 ## 🎧 Featured Track
 
 <div align="center">
-  <img src="assets/featured-track.svg" alt="Animated card featuring Shake Shake by Geoxor" width="720" />
+  <img src="assets/featured-track.svg" alt="Animated card featuring hold my hand by Knock2 and Sophia Gripari" width="720" />
 </div>
 
 ## 🌟 Featured Projects
